@@ -18,6 +18,6 @@ export default MainPage
 
 const styles = StyleSheet.create({
     background: {
-        backgroundColor: 'red',
+        backgroundColor: '#f5f5f5',
     },
 })
